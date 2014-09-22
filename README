@@ -1,0 +1,55 @@
+##############################################
+# The files in this repository are part of the KPN Security Policy (KSP) and regarded as openly accessible files for educational purposes.
+##############################################
+
+These KSP files are free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+These KSP files are distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+details.
+
+You should have received a copy of the GNU General Public License along with
+these KSP files. If not, see <http://www.gnu.org/licenses/>.
+
+##############################################
+# Author: Oscar Koeroo <oscar.koeroo@kpn.com>
+# Office: KPN CISO / Strategy and Policy
+# Project: KSP
+# Date: September 22, 2014
+# License: GPLv3
+##############################################
+
+
+
+ksp-fa05-rl07_-_cryptography_v2 0.pdf
+-------------------------------------
+Introduced: initial KSP release - October 2013
+Updated: Q2 release - June 2014
+Type: Rule document
+Language: English
+
+KSP-FA05-RL07 - Cryptography v2.0_NL.pdf
+----------------------------------------
+Introduced: initial KSP release - October 2013
+Updated: Q2 release - June 2014
+Type: Rule document
+Language: Dutch
+
+
+ksp-fa05-tl02_-_cryptographic_algorithms_and_cipher_suites - draft 1.1.xlsx
+---------------------------------------------------------------------------
+Introduced: Q2 release - June 2014
+Updated: Q2 release - June 2014
+Type: Tool
+Language: English
+
+
+The KSP has four types of documents:
+- Standards
+- Rules
+- Tools
+- Guidelines
